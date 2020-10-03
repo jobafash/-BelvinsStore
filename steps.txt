@@ -1,1 +1,3 @@
 Install dependencies
+
+//delete data:import and destroy in package.json and the below
