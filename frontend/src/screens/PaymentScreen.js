@@ -39,7 +39,7 @@ const PaymentScreen = ({ history }) => {
               value="PayPal"
               onChange={(e) => setPaymentMethod(e.target.value)}
             ></Form.Check>
-            <Form.Check
+            {/* <Form.Check
               type="radio"
               label="Flutterwave"
               id="Flutterwave"
@@ -47,7 +47,7 @@ const PaymentScreen = ({ history }) => {
               value="Flutterwave"
               checked
               onChange={(e) => setPaymentMethod(e.target.value)}
-            ></Form.Check>
+            ></Form.Check> */}
           </Col>
         </Form.Group>
 

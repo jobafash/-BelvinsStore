@@ -1,7 +1,7 @@
 const products = [
   {
     name: "Gown",
-    image: "/images/IMG-20200813-WA0084.jpg",
+    image: "/images/img-20200813-wa0084.jpg",
     description: "Short skimpy gown for that august event",
     brand: "Belvins Apparels",
     category: "Clothes",
@@ -12,7 +12,7 @@ const products = [
   },
   {
     name: "See through gown",
-    image: "/images/IMG-20200913-WA0001.jpg",
+    image: "/images/img-20200913-wa0001.jpg",
     description: "A classy lace gown with sparkling stones",
     brand: "Belvins Apparels",
     category: "Clothes",
@@ -23,7 +23,7 @@ const products = [
   },
   {
     name: "Butterfly dress",
-    image: "/images/733634ff8f2bae488fbad9ded1100815.jpg",
+    image: "/images/733634ff8f2bae488fbad9ded11008.jpg",
     description:
       "Characterized by versatile designs, the BD further clarifies itself using a unique form",
     brand: "Belvins Apparels",
@@ -35,7 +35,7 @@ const products = [
   },
   {
     name: "Blue Owambe gown",
-    image: "/images/IMG-20200301-WA0007.jpg",
+    image: "/images/img-20200301-wa0007.jpg",
     description:
       "The ultimate fashion trend. Whether you are going to Owambe, or a trad-only, it is a perfect choicee",
     brand: "Belvins Apparel",
