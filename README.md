@@ -7,8 +7,7 @@ Belvins Stores is an eCommerce web app, specially built to help user(customer) f
 Fork the repo. 
 Clone the repo.
 -------------
-`git clone https://github.com/jobafash/BelvinsStore.git`
-`cd BelvinsStore`
+`git clone https://github.com/jobafash/BelvinsStore.git && cd BelvinsStore`
 ## Prerequisites
 The following tools will be needed to run this application successfully:
 * Node v12 or above
