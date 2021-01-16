@@ -8,7 +8,7 @@ Fork the repo.
 Clone the repo.
 -------------
 `git clone https://github.com/jobafash/BelvinsStore.git`
-`cd BelvinsStore
+`cd BelvinsStore`
 ## Prerequisites
 The following tools will be needed to run this application successfully:
 * Node v12 or above
